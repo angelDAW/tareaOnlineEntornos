@@ -18,6 +18,11 @@ import java.util.Scanner;
  */
 
 /**
+ *comentario que implica otro cambio para gitHub
+ * 
+ */
+
+/**
  * Clase principal del proyecto que contiene el método main, el cual es el punto de entrada del programa.
  * Permite realizar operaciones aritméticas básicas (suma, resta, multiplicación y división) mediante un menú de opciones.
  * Las operaciones se realizan a través de los métodos de la clase "operaciones".
