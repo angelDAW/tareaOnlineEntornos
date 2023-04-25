@@ -40,12 +40,12 @@ public class main {
      * @param args Argumentos de línea de comandos (no se utilizan en este programa).
      */
     public static void main(String[] args) {
-       int opcion;
+       int cambio_desde_gitHub;
         do {
            operaciones.menu();
-           opcion = leer.nextInt();
+           cambio_desde_gitHub = leer.nextInt();
 
-            switch (opcion) {
+            switch (cambio_desde_gitHub) {
                 case 1:
                     operaciones.sumando(); // llamar al método sumando
                     break;
